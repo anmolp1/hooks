@@ -7,6 +7,11 @@
 * Over the past [timeframe], I have grown my [thing] from [before] to [after]
 * It took me [long timeframe] to learn this, but I will teach it to you in less than [short timeframe]
 * If you are in your [20s - age group], here are [number] things you need to make sure you don't end up [painful outcome] by [age group]
+* Stop [common action everyone does] — this is the real reason you are [not getting desired result]
+* I spent [large amount of money/time] on [topic] so you don't have to — here are the [number] things that actually worked
+* The [number one/biggest] mistake [specific group] make when trying to [desired outcome] — and what to do instead
+* I went from [specific bad starting point] to [specific impressive result] in [timeframe] — here's the [number]-step system I used
+* You don't need [thing everyone thinks they need] to [achieve result] — here's proof
 
 # Bad hooks
 * How to [do the generic thing]
@@ -17,3 +22,8 @@
 * How I grew my [thing]
 * What I learned about [topic] over [time period]
 * [number] tips for [age group] [creators/people]
+* Why [common action] doesn't work
+* [number] things that work for [topic]
+* Common mistakes in [topic]
+* Steps to [achieve result]
+* You don't need [thing] for [result]
